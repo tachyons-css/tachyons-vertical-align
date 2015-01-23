@@ -1,13 +1,13 @@
 {
   "name": "tachyons-vertical-align",
   "version": "0.3.0",
-  "style": "vertical_align.css",
+  "style": "tachyons-vertical-align.css",
   "homepage": "http://mrmrs.io/tachyons-vertical-align",
-  "description": "Performance based sass module.",
+  "description": "Performance based css module.",
   "keywords": [
     "oocss",
-    "sass",
     "css",
+    "rework",
     "rwd",
     "design",
     "tachyons",
