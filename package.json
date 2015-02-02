@@ -2,7 +2,7 @@
   "name": "tachyons-vertical-align",
   "version": "1.0.0",
   "style": "tachyons-vertical-align.css",
-  "homepage": "http://mrmrs.io/tachyons-vertical-align",
+  "homepage": "http://github.com/mrmrs/tachyons-vertical-align",
   "description": "Performance based css module.",
   "keywords": [
     "oocss",
