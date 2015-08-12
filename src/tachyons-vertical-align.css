@@ -3,7 +3,9 @@
 @custom-media --breakpoint-large screen and (min-width: 64em);
 
 /*
+
    VERTICAL ALIGN
+
 */
 
 .v-base     { vertical-align: baseline; }
@@ -47,4 +49,3 @@
   .v-top-l      { vertical-align: top; }
   .v-btm-l      { vertical-align: bottom; }
 }
-
