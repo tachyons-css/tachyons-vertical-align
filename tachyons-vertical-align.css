@@ -36,7 +36,7 @@
   vertical-align: bottom;
 }
 
-@media screen and (max-width: 48em) {
+@media screen and (min-width: 48em) {
   .v-base-ns {
     vertical-align: baseline;
   }
