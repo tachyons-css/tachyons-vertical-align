@@ -20,17 +20,17 @@ var output = postcss([autoprefixer])
   .use(customMedia())
   .process(css, {
     from: "src/tachyons-vertical-align.css",
-    to: "css/tachyons-vertical-align.css"
+    to: "tachyons-vertical-align.css"
   })
   .css
 
-fs.writeFile("css/tachyons-vertical-align.css", output, 'utf-8')
+fs.writeFile("tachyons-vertical-align.css", output, 'utf-8')
 
 // Using YUI Compressor for CSS
 new compressor.minify({
     type: 'sqwish',
-    fileIn: 'css/tachyons-vertical-align.css',
-    fileOut: 'css/tachyons-vertical-align.min.css',
+    fileIn: 'tachyons-vertical-align.css',
+    fileOut: 'tachyons-vertical-align.min.css',
     callback: function(err, min){
     //console.log('Sqwish');
     //console.log(err);
