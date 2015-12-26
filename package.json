@@ -1,6 +1,6 @@
 {
   "name": "tachyons-vertical-align",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "style": "tachyons-vertical-align.css",
   "homepage": "http://github.com/mrmrs/tachyons-vertical-align",
   "description": "Performance based css module.",
