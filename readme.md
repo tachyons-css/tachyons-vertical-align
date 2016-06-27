@@ -1,4 +1,4 @@
-# tachyons-vertical-align 2.0.2
+# tachyons-vertical-align 2.0.4
 
 Performance based css module.
 
