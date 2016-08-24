@@ -4,7 +4,7 @@ Performance based css module.
 
 #### Stats
 
-214 | 16 | 16
+213 | 16 | 16
 ---|---|---
 bytes | selectors | declarations
 
@@ -83,19 +83,19 @@ Running `$ npm start` will process the source CSS and place the built CSS in the
 .v-mid { vertical-align: middle; }
 .v-top { vertical-align: top; }
 .v-btm { vertical-align: bottom; }
-@media screen and (min-width: 48em) {
+@media screen and (min-width: 30em) {
  .v-base-ns { vertical-align: baseline; }
  .v-mid-ns { vertical-align: middle; }
  .v-top-ns { vertical-align: top; }
  .v-btm-ns { vertical-align: bottom; }
 }
-@media screen and (min-width: 48em) and (max-width: 64em) {
+@media screen and (min-width: 30em) and (max-width: 60em) {
  .v-base-m { vertical-align: baseline; }
  .v-mid-m { vertical-align: middle; }
  .v-top-m { vertical-align: top; }
  .v-btm-m { vertical-align: bottom; }
 }
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 60em) {
  .v-base-l { vertical-align: baseline; }
  .v-mid-l { vertical-align: middle; }
  .v-top-l { vertical-align: top; }
