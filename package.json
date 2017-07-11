@@ -1,6 +1,6 @@
 {
   "name": "tachyons-vertical-align",
-  "version": "4.0.4",
+  "version": "4.0.5",
   "style": "src/tachyons-vertical-align.css",
   "main": "src/tachyons-vertical-align.css",
   "description": "Performance based css module.",
@@ -16,7 +16,7 @@
   },
   "license": "ISC",
   "devDependencies": {
-    "tachyons-cli": "^1.0.10",
+    "tachyons-cli": "^1.0.11",
     "watch": "^1.0.1"
   },
   "scripts": {
