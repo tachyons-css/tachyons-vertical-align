@@ -1,6 +1,6 @@
 {
   "name": "tachyons-vertical-align",
-  "version": "4.0.5",
+  "version": "4.0.6",
   "style": "src/tachyons-vertical-align.css",
   "main": "src/tachyons-vertical-align.css",
   "description": "Performance based css module.",
